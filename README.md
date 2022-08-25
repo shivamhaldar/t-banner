@@ -1,7 +1,7 @@
 # T_banner
 
 ![Made in India](https://img.shields.io/badge/MADE%20IN%20-INDIA-green?style=for-the-badge&logo=appveyor)
-![Shivam Haldar](https://img.shields.io/badge/prince%20-kumar-green?style=for-the-badge&logo=appveyor)
+![Shivam Haldar](https://img.shields.io/badge/shivam%20-haldar-green?style=for-the-badge&logo=appveyor)
 
 ![GitHub followers](https://img.shields.io/github/followers/shivamhaldar?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/shivam_0088?color=%23ff128c&label=%shivamhaldar&style=for-the-badge)
