@@ -22,7 +22,7 @@ user_inttrupt(){
 }
 #Make a function to catch all update ---
 repo_update(){
-	git pull https://github.com/princekrvert/T_banner.git > /dev/null 2>&1
+	git pull https://github.com/shivamhaldar/t-banner.git > /dev/null 2>&1
 	clear 
 }
 repo_update
@@ -60,10 +60,8 @@ banner(){
     |_   _|     | |_ ___ ___ ___ ___ ___ 
       | |       | . | .'|   |   | -_|  _|
       |_|  _____|___|__,|_|_|_|_|___|_|  
-          |_____| ${g} Made by prince 
-     ${r} Youtube https://is.gd/UQreTd
-     ${r} Instagram https://www.instagram.com/sirprincekrvert
-		"
+          |_____| ${g} Made by shivam 
+     ${r} Instagram https://www.instagram.com/shivam_0088		"
 
 }
 banner
