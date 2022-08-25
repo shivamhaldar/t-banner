@@ -22,7 +22,6 @@ git clone https://github.com/shivamhaldar/t-banner.git;cd T_banner;chmod +x *;ba
 ```
 ### Termux -- look
 
-![20210124_214804](https://user-images.githubusercontent.com/56459297/105637270-a5831700-5e92-11eb-88e3-541e277035fd.jpg)
 
 
 ## [Instagram](https://instagram.com/shivam_0088)
