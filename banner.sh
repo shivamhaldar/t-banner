@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
-#@Author prince 
-#Update at 7 may 2021
+#@Author shivam 
+#Update at 7 may 2022
 #Version 1.2
 #Define some color code----
 r="\e[31;1m"
