@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-@Author prince kumar 
+@Author t-banner
 #Date --- 24 jan 2021
 
 cd 
