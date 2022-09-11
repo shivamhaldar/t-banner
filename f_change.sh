@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
-#Made by prince kumar....
-#Date 18 aug 2021
+
+#Date 18 aug 2022
 #Create a function to change the Font
 #Create a manue -----
 
@@ -33,7 +33,7 @@ elif [[ $fc_optn == "7" || $fc_optn == "07" ]];then             cat fonts-master
 elif [[ $fc_optn == "8" || $fc_optn == "08" ]];then             cat fonts-master/NovaMono/'NovaMono for Powerline.ttf' >> ~/.termux/font.ttf
 elif [[ $fc_optn == "9" || $fc_optn == "09" ]];then             cat fonts-master/RobotoMono/'Roboto Mono Medium for Powerline.ttf' >> ~/.termux/font.ttf
 elif [[ $fc_optn == "10" ]];then  
-	echo -e "\e[36;1m This is made by Prince 💟"
+	echo -e "\e[36;1m This is made by 💟"
 else 
 	echo -e "\e[31;1m Invalid option 👿 "
 
